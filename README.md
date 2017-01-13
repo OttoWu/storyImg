@@ -1,0 +1,2 @@
+# storyImg
+story write img
